@@ -1,0 +1,2 @@
+# ppuu
+päätöspuu harjoituksia
