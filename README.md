@@ -1,2 +1,2 @@
 # ppuu
-päätöspuu harjoituksia
+päätöspuuharjoituksia
